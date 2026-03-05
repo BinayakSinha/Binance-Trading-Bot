@@ -1,0 +1,7 @@
+2026-01-01 18:28:57,824 - INFO - Bot initialized and connected to Binance Testnet.
+2026-01-01 18:30:55,883 - INFO - Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.007}
+2026-01-01 18:30:56,936 - INFO - Order Success! ID: 11311663311 | Status: NEW
+2026-01-01 18:32:13,171 - INFO - Sending order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.007, 'price': 100000.0, 'timeInForce': 'GTC'}
+2026-01-01 18:32:13,510 - INFO - Order Success! ID: 11311687574 | Status: NEW
+2026-01-01 18:32:55,889 - INFO - Sending order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'STOP', 'quantity': 0.007, 'price': 40000.0, 'stopPrice': 41000.0, 'timeInForce': 'GTC'}
+2026-01-01 18:32:56,299 - INFO - Order Success! ID: None | Status: None
